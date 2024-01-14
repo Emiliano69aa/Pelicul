@@ -1,1 +1,1 @@
-# Pelicul
+#EXTINF:-1 tvg-logo=" https://lh3.googleusercontent.com/-2gN4wEv_qPI/XjtKDwMuIQI/AAAAAAAAvrY/VTtJwZALBykDRnM8ia0Xbqi0FbREvdrZACK8BGAsYHg/s0/2020-02-05.png " group-title="AMBA", GARAJE TV https://dazdq30qqoez.enaak-cdn.com:443/hls2/01/01070/s0v77ruysncn_n/index-v1-a1.m3u8?t=-aVR3nCgLTjN0JxHB4nTTkSmhP0vJU-1mNqpX7yvRt4&s=1705250048&e=129600&f=5466447&srv=eisekbfp86ox&i=0.4&sp=1500&p1=eisekbfp86ox&p2=eisekbfp86ox&asn=11664
